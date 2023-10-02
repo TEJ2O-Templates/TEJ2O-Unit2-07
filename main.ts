@@ -2,7 +2,7 @@
  *
  * Created by: Mr. Coxall
  * Created on: Sep 2020
- * This program ...
+ * This program is the cookie clicker program.
 */
 
 basic.showString('Hello, World!')
